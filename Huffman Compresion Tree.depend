@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1595254441 source:e:\c language\coding\huffman compresion tree\main.cpp
+	<fstream>
+	<cstring>
+	<algorithm>
+	<utility>
+	<map>
+	<string>
+
